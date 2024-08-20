@@ -1,6 +1,6 @@
 # Hi, I’m Favour Achara
 ## About Me
-- 👀 Frontend Developer with experience in ReactJS and TailwindCSS
+- 👀 Frontend Developer with experience in ReactJS, NextJS and TailwindCSS
 - 🌱 Currently learning backend development with Node.JS
 - 💞️ I’m looking to collaborate on projects to improve myself
 - 📫 How to reach me using my phone number(+234 816 152 2624)
