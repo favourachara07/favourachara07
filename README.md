@@ -6,6 +6,8 @@
 - 📫 How to reach me using my phone number(+234 816 152 2624)
 - ✨ Fun Fact: I love the anime, One Piece
 -----
+![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=favourachara07&show_icons=true&theme=radical)
+
 ## 🛠 Languages and Tools
 ![HTML](https://camo.githubusercontent.com/778fb99e61baf467bcc5d71d08c17e1d913ff659cf4cdaa8bf85ee9045950973/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35)
 ![CSS](https://camo.githubusercontent.com/eee41ce3efe7e3fd9a28a4104fcf601e96769275473a962a688d6e297abe723d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
