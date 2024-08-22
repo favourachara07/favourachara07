@@ -1,23 +1,27 @@
-# Hi, I’m Favour Achara
-## About Me
-- 👀 Frontend Developer with experience in ReactJS, NextJS and TailwindCSS
-- 🌱 Currently learning backend development with Node.JS
-- 💞️ I’m looking to collaborate on projects to improve myself
-- 📫 How to reach me using my phone number(+234 816 152 2624)
-- ✨ Fun Fact: I love the anime, One Piece
------
+# 💫 About Me:
+🔭 Frontend Developer with experience in ReactJS, NextJS and TailwindCSS<br>👯 I’m looking to collaborate on open-source frontend projects<br>🎓 Currently studying Computer Science at Veritas University<br>🌱 I’m currently learning backend with NodeJS<br>💬 Want to contact me, Here's my number: +234 816 152 2624<br>⚡ I love the anime, One Piece
 
-![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=favourachara07&show_icons=true&theme=dark)
 
-## 🛠 Languages and Tools
-![HTML](https://camo.githubusercontent.com/778fb99e61baf467bcc5d71d08c17e1d913ff659cf4cdaa8bf85ee9045950973/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35)
-![CSS](https://camo.githubusercontent.com/eee41ce3efe7e3fd9a28a4104fcf601e96769275473a962a688d6e297abe723d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
-![JavaScript](https://camo.githubusercontent.com/7533cf04f3aee7c09a42eec7cc35795091924e730e82893068eb0c1c58d2c5ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074)
-![React JS](https://camo.githubusercontent.com/991ebca064ac822b196eca06068ff3f84330a7bd9eb0e9c22119759eacc2afb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742532304a532d3333333333333f7374796c653d666c6174266c6f676f3d7265616374)
-![Tailwind CSS](https://camo.githubusercontent.com/c16cb1f9367bea893a8bace199fc5a0184fc038ab91a46b16d91e54a857a58de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642532304353532d3333333333333f7374796c653d666c6174266c6f676f3d7461696c77696e64637373)
-![Visual Studio Code](https://camo.githubusercontent.com/d8932bbfd71bc046a82e449545f35985b9a78f4ac73cd8b0d6e61f9f45179b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-![Git](https://camo.githubusercontent.com/8a7125489e1797dfccceebd9b4669a098d22394ed1cd441e14913cfda30513d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c6174266c6f676f3d676974)
-<!---
-favourachara07/favourachara07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wb3ne9fP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achara_morales) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@acharafavour01) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acharafavour) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26378929) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/favour2207) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=favourachara07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=favourachara07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=favourachara07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=favourachara07&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=favourachara07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=favourachara07&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
