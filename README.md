@@ -1,5 +1,5 @@
 👋 Hi, I'm Favour!
-🔭 Frontend Developer with experience in ReactJS, NextJS and TailwindCSS<br>👯 I’m looking to collaborate on open-source frontend projects<br>🎓 Currently studying Computer Science at Veritas University Abuja<br>🌱 I’m currently learning backend with Node.JS<br>💬 Want to contact me, Here's my number: +234 816 152 2624<br>⚡ I love the anime, One Piece
+🔭  Frontend Developer with experience in ReactJS, NextJS and TailwindCSS<br>👯 I’m looking to collaborate on open-source frontend projects<br>🎓 Currently studying Computer Science at Veritas University Abuja<br>🌱 I’m currently learning backend with Node.JS<br>💬 Want to contact me, Here's my number: +234 816 152 2624<br>⚡ I love the anime, One Piece
 
  
 
