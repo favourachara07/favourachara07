@@ -32,15 +32,15 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=favourachara07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=favourachara07&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=favourachara07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## Language Statistics
+<img src="https://wakatime.com/share/@Favour07/a7ad06d0-9fd9-4658-9d0d-352b37c5befd.svg" height='400'/>
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=favourachara07&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 
