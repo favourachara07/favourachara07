@@ -46,14 +46,6 @@
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=favourachara07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Wb3ne9fP) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/achara_morales) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@acharafavour01) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acharafavour) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26378929) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/favour2207)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
