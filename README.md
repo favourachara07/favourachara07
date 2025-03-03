@@ -37,15 +37,5 @@
 ## Language Statistics
 <img src="https://wakatime.com/share/@Favour07/a7ad06d0-9fd9-4658-9d0d-352b37c5befd.svg" height='400'/>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=favourachara07&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=favourachara07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
