@@ -1,12 +1,34 @@
 <div style="text-align: center;">
-# 👋 Hi, I'm Favour!
+# 👋 Hi, I’m Achara Favour Chimeremnma!
 
-🔭 Frontend Developer with experience in ReactJS, NextJS, and TailwindCSS  
-👯 Looking to collaborate on open-source frontend projects  
-🎓 Currently studying Computer Science at Veritas University Abuja  
-🌱 Currently learning backend development with Node.js  
-💬 Want to contact me? Here's my number: +234 816 152 2624  
-⚡ I love the anime, One Piece
+🌍 Based in Abuja, Nigeria (Remote)  
+💼 Co-founder & CTO at [Skyne](https://skyne.io) | Frontend Developer @ [Heuvera](https://heuvera.com) & [Fundus AI](https://fundusai.com)  
+🎓 Pursuing B.Sc. Computer Science @ Veritas University 
+📫 Reach me: acharafavour01@gmail.com | +234 816 152 2624  
+🔗 [Portfolio](https://github.com/favourachara07) 
+
+---
+
+## 💻 About Me
+I’m a **Frontend Engineer** passionate about crafting pixel‑perfect, responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**. Over the past 3+ years I’ve:
+- Led **Skyne**’s AI‑powered skincare platform: built UI/UX, integrated Groq AI LLM, and managed our MongoDB/Express backend  
+- Translated complex Figma designs into production UIs at **Heuvera** (real‑estate dashboard & listings)  
+- Developed accessible healthcare interfaces at **Fundus AI**  
+
+When I’m not coding, I’m learning **Node.js** for backend, collaborating on open‑source projects, or unwinding with **One Piece**.
+
+---
+
+## 🔭 Current Focus 
+- Deepening my backend knowledge with Node.js & Express  
+- Exploring AI/ML and cloud computing  
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein  
+
+_⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling and design intersect!_  
+
 
 ## 💻 Tech Stack
 
