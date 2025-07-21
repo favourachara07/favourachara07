@@ -7,8 +7,6 @@
 📫 Reach me: acharafavour01@gmail.com | +234 816 152 2624  
 🔗 [Portfolio](https://github.com/favourachara07) 
 
----
-
 ## 💻 About Me
 I’m a **Frontend Engineer** passionate about crafting pixel‑perfect, responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**. Over the past 3+ years I’ve:
 - Led **Skyne**’s AI‑powered skincare platform: built UI/UX, integrated Groq AI LLM, and managed our MongoDB/Express backend  
@@ -17,21 +15,15 @@ I’m a **Frontend Engineer** passionate about crafting pixel‑perfect, respons
 
 When I’m not coding, I’m learning **Node.js** for backend, collaborating on open‑source projects, or unwinding with **One Piece**.
 
----
-
 ## 🔭 Current Focus 
 - Deepening my backend knowledge with Node.js & Express  
 - Exploring AI/ML and cloud computing  
-
----
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein  
 
 _⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling and design intersect!_  
 
-
 ## 💻 Tech Stack
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
