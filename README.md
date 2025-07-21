@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-# 👋 Hi, I’m Achara Favour Chimeremnma!
+👋 Hi, I’m Achara Favour Chimeremnma!
 
 🌍 Based in Abuja, Nigeria (Remote)  
-💼 Co-founder & CTO at [Skyne](https://skyne.io) | Frontend Developer @ [Heuvera](https://heuvera.com) & [Fundus AI](https://fundusai.com)  
+💼 Co-founder & CTO at [Skyne](https://skyne.ng) | Frontend Developer @ [Heuvera](https://heuvera.com) & [Fundus AI](https://fundusai.com)  
 🎓 Pursuing B.Sc. Computer Science @ Veritas University 
 📫 Reach me: acharafavour01@gmail.com | +234 816 152 2624  
 🔗 [Portfolio](https://github.com/favourachara07) 
