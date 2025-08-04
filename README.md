@@ -8,7 +8,7 @@
 🔗 [Portfolio](https://github.com/favourachara07) 
 
 ## 💻 About Me
-I’m a **Frontend Engineer** passionate about crafting pixel‑perfect, responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**. Over the past 3+ years I’ve:
+I’m a **Software Engineer** passionate about crafting pixel‑perfect, responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**. Over the past 3+ years I’ve:
 - Led **Skyne**’s AI‑powered skincare platform: built UI/UX, integrated Groq AI LLM, and managed our MongoDB/Express backend  
 - Translated complex Figma designs into production UIs at **Heuvera** (real‑estate dashboard & listings)  
 - Developed accessible healthcare interfaces at **Fundus AI**  
