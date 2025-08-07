@@ -41,8 +41,6 @@ _⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling an
 <img src="https://wakatime.com/share/@Favour07/a4824e0f-c329-4f3d-9741-fe2b2687417a.svg" height='400'/>
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=favourachara07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=favourachara07&theme=dark&hide_border=false)  
 
 
