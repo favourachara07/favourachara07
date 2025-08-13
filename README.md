@@ -34,14 +34,12 @@ _⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling an
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Flutter](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=fluttee&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 📊 Wakatime Stats
 <img src="https://wakatime.com/share/@Favour07/a4824e0f-c329-4f3d-9741-fe2b2687417a.svg" height='400'/>
-
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=favourachara07&theme=dark&hide_border=false)  
 
 
 ## Language Statistics
