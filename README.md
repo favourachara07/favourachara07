@@ -41,9 +41,5 @@ _⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling an
 ## 📊 Wakatime Stats
 <img src="https://wakatime.com/share/@Favour07/a4824e0f-c329-4f3d-9741-fe2b2687417a.svg" height='400'/>
 
-
-## Language Statistics
-<img src="https://wakatime.com/share/@Favour07/a7ad06d0-9fd9-4658-9d0d-352b37c5befd.svg" height='400'/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
