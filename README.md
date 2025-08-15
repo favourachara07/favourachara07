@@ -38,8 +38,6 @@ _⚡ Fun fact: I’m a huge One Piece fan and love exploring how storytelling an
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-## 📊 Wakatime Stats
-<img src="https://wakatime.com/share/@Favour07/a4824e0f-c329-4f3d-9741-fe2b2687417a.svg" height='400'/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
