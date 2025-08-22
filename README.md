@@ -5,7 +5,6 @@
 💼 Co-founder & CTO at [Skyne](https://skyne.ng) | Frontend Developer @ [Heuvera](https://heuvera.com) & [Fundus AI](https://fundusai.com)  
 🎓 Pursuing B.Sc. Computer Science @ Veritas University 
 📫 Reach me: acharafavour01@gmail.com | +234 816 152 2624  
-🔗 [Portfolio](https://github.com/favourachara07) 
 
 ##  About Me
 I’m a **Software Engineer** passionate about crafting pixel‑perfect, responsive interfaces with **React.js**, **Next.js**, and **Tailwind CSS**. Over the past 3+ years I’ve:
