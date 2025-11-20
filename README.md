@@ -11,7 +11,7 @@
 
 ### 🤖 About Me
 
-I am a **Software Engineer** working at the intersection of intuitive software developement and intelligent systems. With **3+ years of experience** crafting production-ready interfaces, I am now bridging the gap between pixel-perfect UIs and **Deep Learning** architectures.
+I am a **Software Engineer** with **3+ years of experience** crafting production-ready web applications, I am now bridging the gap between web applications and **AI/ML** models.
 
 While my roots are in building responsive applications with **React.js** and **Next.js**, my current obsession lies in the mathematics and mechanics of **Neural Networks**. I don't just use models; I am passionate about understanding the architectures that drive them—from the attention mechanisms in **Transformers** and **Encoder-Decoders** , to the feature extraction layers of **CNNs** for Computer Vision.
 
