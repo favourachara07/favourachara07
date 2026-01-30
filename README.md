@@ -5,7 +5,7 @@
 
 [![Skyne](https://img.shields.io/badge/Co--Founder_%26_CTO-Skyne-blueviolet)](https://skyne.co) [![Heuvera](https://img.shields.io/badge/Frontend-Heuvera-blue)](https://heuvera.com) [![Fundus AI](https://img.shields.io/badge/Frontend-Fundus_AI-blue)](https://fundusai.com)
 
-🎓 **Pursuing B.Sc. Computer Science @ Veritas University**
+🎓 **Pursuing B.Sc. Computer Science @ Veritas University.**
 
 ---
 
