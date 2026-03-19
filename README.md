@@ -1,15 +1,15 @@
-# 👋 Hi, I’m Achara Favour Chimeremnma
+#  Hi, I’m Achara Favour Chimeremnma
 
 **Software Engineer (Frontend Specialist) |  AI/ML Engineer**
 *Based in Abuja, Nigeria (Remote)*
 
 [![Skyne](https://img.shields.io/badge/Co--Founder_%26_CTO-Skyne-blueviolet)](https://skyne.co) [![Heuvera](https://img.shields.io/badge/Frontend-Heuvera-blue)](https://heuvera.com) [![Fundus AI](https://img.shields.io/badge/Frontend-Fundus_AI-blue)](https://fundusai.com)
 
-🎓 **Pursuing B.Sc. Computer Science @ Veritas University.**
+ **Pursuing B.Sc. Computer Science @ Veritas University.**
 
 ---
 
-### 🤖 About Me
+###  About Me
 
 I am a **Software Engineer** with **3+ years of experience** crafting production-ready web applications, I am now bridging the gap between web applications and **AI/ML** models.
 
@@ -19,7 +19,7 @@ While my roots are in building responsive applications with **React.js** and **N
 
 ---
 
-### 🧠 The AI & Deep Learning Focus
+###  The AI & Deep Learning Focus
 
 I am actively transitioning my focus toward **Computer Vision** and **AI Agentic Flows**.
 * **Computer Vision (My Absolute Favorite):** I have a deep appreciation for **Convolutional Neural Networks (CNNs)**. I love exploring how filters, pooling layers, and activation functions work together to enable machines to "see" and interpret visual data.
@@ -28,7 +28,7 @@ I am actively transitioning my focus toward **Computer Vision** and **AI Agentic
 
 ---
 
-### 🛠 Key Skills & Stack
+### Key Skills & Stack
 
 **FIELDS**
 > **Frontend Engineering:** React.js, Next.js, Tailwind CSS, TypeScript, UI/UX Implementation.
@@ -43,18 +43,13 @@ I am actively transitioning my focus toward **Computer Vision** and **AI Agentic
 
 ---
 
-### 💼 Professional Impact
+###  Professional Impact
 
 * **Skyne (Co-founder & CTO):** Leading the tech for an AI-powered skincare platform. I built the UI/UX, managed the MongoDB/Express backend, and successfully integrated **Groq AI LLMs** to provide personalized skincare analysis.
 * **Heuvera:** Translated complex Figma designs into high-performance production UIs for real-estate dashboards.
 * **Fundus AI:** Developed accessible healthcare interfaces, ensuring medical data is presented clearly and effectively.
 
 ---
-
-### ⚡ Current Focus
-* **Deep Learning R&D:** deeply studying CNN architectures (ResNet, VGG) and Transformer attention mechanisms.
-* **Building AI Agents:** Creating smarter automation flows using n8n.
-* **Project:** Developing AI-integrated solutions that leverages Computer Vision for real-time analysis.
 
 ---
 
